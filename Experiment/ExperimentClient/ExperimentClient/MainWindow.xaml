@@ -1,0 +1,22 @@
+﻿<Window x:Class="ExperimentClient.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:ExperimentClient"
+        mc:Ignorable="d"
+        Title="客户端管理界面"  Height="640" Width="960" ResizeMode="NoResize">
+    <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition></ColumnDefinition>
+            <ColumnDefinition></ColumnDefinition>
+        </Grid.ColumnDefinitions>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="50"></RowDefinition>
+            <RowDefinition></RowDefinition>
+        </Grid.RowDefinitions>
+        <TextBox x:Name="MessText"></TextBox>
+        <Button x:Name="SendMess" Grid.Column="1" Width="108" HorizontalAlignment="Right" Content="发送消息" Margin="0,9,-0.4,8.6" Click="SendMess_Click"/>
+        <RichTextBox x:Name="LogText" Grid.Row="1" Grid.ColumnSpan="2"></RichTextBox>
+    </Grid>
+</Window>

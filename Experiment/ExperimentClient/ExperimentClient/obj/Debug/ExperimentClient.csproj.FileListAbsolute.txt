@@ -1,0 +1,17 @@
+F:\Experiment\ExperimentClient\ExperimentClient\bin\Debug\ExperimentClient.exe.config
+F:\Experiment\ExperimentClient\ExperimentClient\bin\Debug\ExperimentClient.exe
+F:\Experiment\ExperimentClient\ExperimentClient\bin\Debug\ExperimentClient.pdb
+F:\Experiment\ExperimentClient\ExperimentClient\obj\Debug\ExperimentClient.csprojResolveAssemblyReference.cache
+F:\Experiment\ExperimentClient\ExperimentClient\obj\Debug\MainWindow.g.cs
+F:\Experiment\ExperimentClient\ExperimentClient\obj\Debug\App.g.cs
+F:\Experiment\ExperimentClient\ExperimentClient\obj\Debug\ExperimentClient_MarkupCompile.cache
+F:\Experiment\ExperimentClient\ExperimentClient\obj\Debug\ExperimentClient_MarkupCompile.lref
+F:\Experiment\ExperimentClient\ExperimentClient\obj\Debug\MainWindow.baml
+F:\Experiment\ExperimentClient\ExperimentClient\obj\Debug\ExperimentClient.g.resources
+F:\Experiment\ExperimentClient\ExperimentClient\obj\Debug\ExperimentClient.Properties.Resources.resources
+F:\Experiment\ExperimentClient\ExperimentClient\obj\Debug\ExperimentClient.csproj.GenerateResource.Cache
+F:\Experiment\ExperimentClient\ExperimentClient\obj\Debug\ExperimentClient.exe
+F:\Experiment\ExperimentClient\ExperimentClient\obj\Debug\ExperimentClient.pdb
+C:\Users\aladdin\Desktop\Experiment\Experiment\ExperimentClient\ExperimentClient\bin\Debug\ExperimentClient.exe.config
+C:\Users\aladdin\Desktop\Experiment\Experiment\ExperimentClient\ExperimentClient\obj\Debug\ExperimentClient.exe
+C:\Users\aladdin\Desktop\Experiment\Experiment\ExperimentClient\ExperimentClient\obj\Debug\ExperimentClient.pdb

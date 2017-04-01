@@ -1,0 +1,23 @@
+﻿<Window x:Class="ExperimentServer.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:ExperimentServer"
+        mc:Ignorable="d"
+        Title="服务器管理界面" Height="640" Width="960" ResizeMode="NoResize">
+    <Grid>
+        <StackPanel Orientation="Vertical">
+            <Grid>
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition></ColumnDefinition>
+                    <ColumnDefinition></ColumnDefinition>
+                </Grid.ColumnDefinitions>
+                <Button x:Name="OpenServer" Grid.Column="1" Content="服务器启动" Height="32" Width="108"  HorizontalAlignment="Right" Margin="5" Click="OpenServer_Click"></Button>
+            </Grid>
+            <RichTextBox x:Name="LogText" Height="565" Margin="5">
+               
+            </RichTextBox>
+        </StackPanel>
+    </Grid>
+</Window>
